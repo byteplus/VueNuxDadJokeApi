@@ -1,15 +1,15 @@
 <template>
   <div>
-    <h2>Welcome to the best corny jokes</h2>
+    <h1>About DadJokes</h1>
+    <p>This an APP that displays corny dad jokes</p>
   </div>
 </template>
 
 <script>
-
 export default {
   head() {
     return {
-      title: "Welcome the App",
+      title: "About the App",
       meta: [
         {
           hid: "description",
